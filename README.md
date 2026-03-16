@@ -18,7 +18,7 @@
 - 🔍 **Objetivo:** Implementar prácticas de *DevSecOps* en cada proyecto que toco.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,javascript,php,python" />
+    <img src="https://skillicons.dev/icons?i=git,docker,javascript,php,python,n8n" />
   </a>
 </p>
 
