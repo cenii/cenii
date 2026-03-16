@@ -29,7 +29,7 @@
 ## 📫 Contacto
 ¿Hablamos sobre código o seguridad?
 
-[![Gmail Badge](https://img.shields.io/badge/-hugo.ceniceros@email.com-blue?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hcenicerosolave@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-hcenicerosolave@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hcenicerosolave@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugocenicerosolave/)
 
 ---
