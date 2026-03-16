@@ -12,6 +12,16 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+## 🛠️ Stack & Aprendizaje
+- 🛡️ **Ciberseguridad:** Estudiando vulnerabilidades, redes y seguridad defensiva.
+- 💻 **Desarrollo:** Experiencia como programador en Globant.
+- 🔍 **Objetivo:** Implementar prácticas de *DevSecOps* en cada proyecto que toco.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,javascript,php,python" />
+  </a>
+</p>
+
 ## 🚀 Estadísticas de GitHub
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=cenii&show_icons=true&theme=tokyonight" alt="Stats de Hugo" />
@@ -20,11 +30,6 @@
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cenii&theme=tokyonight" alt="Streak de Hugo"/>
 </p>
-
-## 🛠️ Stack & Aprendizaje
-- 🛡️ **Ciberseguridad:** Estudiando vulnerabilidades, redes y seguridad defensiva.
-- 💻 **Desarrollo:** Experiencia como programador en Globant.
-- 🔍 **Objetivo:** Implementar prácticas de *DevSecOps* en cada proyecto que toco.
 
 ## 📫 Contacto
 ¿Hablamos sobre código o seguridad?
