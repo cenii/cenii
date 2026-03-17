@@ -23,11 +23,8 @@
 </p>
 
 ## 🚀 Estadísticas de GitHub
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cenii&show_icons=true&theme=tokyonight" alt="Stats de Hugo" />
-</p>
-
-<p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cenii&theme=tokyonight" alt="Streak de Hugo"/>
 </p>
 
